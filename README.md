@@ -8,4 +8,6 @@
 
 <h2>Todas os temas das linguagens tem 5 perguntas</h2>
 
+![QuizZzZzZZr](https://github.com/Pilatis/Quizz_React/assets/139661291/20e083af-99f3-49db-843c-5b8599aa7f46)
+
 
